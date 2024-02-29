@@ -33,7 +33,7 @@ function myMenuFunction(){
 
 /* ----- TYPING EFFECT ----- */
  let typingEffect = new Typed(".typedText",{
-    strings : ["Designer","Be a learner","Developer","A Student always"],
+    strings : ["Programmer","Website Designer ","Developer","NEXT JS dev "],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
